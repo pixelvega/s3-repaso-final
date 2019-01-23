@@ -1,9 +1,9 @@
 {
+  "homepage": "./",
   "name": "s3-repaso-final",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "./",
     "node-sass": "^4.11.0",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
